@@ -1,0 +1,25 @@
+{
+    "videos": [
+        {
+            "title": "title",
+            "speakers": [
+                2
+            ],
+            "date": "2022-08-19",
+            "tags": [
+                0,
+                1
+            ],
+            "videoURL": "https://youtube.com/...",
+            "description": "desc"
+        },
+        {
+            "title": "title",
+            "speakers": [2],
+            "date": "2022-08-19",
+            "tags": [0,1],
+            "videoURL": "https://youtube.com/...",
+            "description": "desc"
+        }
+    ]
+}
